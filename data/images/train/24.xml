@@ -1,7 +1,13 @@
 <annotation>
+<<<<<<< HEAD
 	<folder>images2</folder>
 	<filename>24.png</filename>
 	<path>/Users/bsmita123/TensorFlow/models/images/images2/24.png</path>
+=======
+	<folder>images</folder>
+	<filename>24.png</filename>
+	<path>/Users/bsmita123/image_augmentor/images/24.png</path>
+>>>>>>> b799a0e36be1af5f0c877f577bcddc577930da23
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -23,4 +29,19 @@
 			<ymax>694</ymax>
 		</bndbox>
 	</object>
+<<<<<<< HEAD
+=======
+	<object>
+		<name>tennis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>806</xmin>
+			<ymin>192</ymin>
+			<xmax>1010</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+>>>>>>> b799a0e36be1af5f0c877f577bcddc577930da23
 </annotation>

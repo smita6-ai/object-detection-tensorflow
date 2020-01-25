@@ -1,50 +1,50 @@
 <annotation>
 	<folder>images</folder>
-	<filename>58.png</filename>
-	<path>/Users/bsmita123/image_augmentor/images/58.png</path>
+	<filename>29__fliph.png</filename>
+	<path>/Users/bsmita123/image_augmentor/images/29__fliph.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>0</width>
-		<height>0</height>
+		<width>1366</width>
+		<height>728</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>pool</name>
+		<name>football</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>527</xmin>
-			<ymin>165</ymin>
-			<xmax>815</xmax>
-			<ymax>587</ymax>
+			<xmin>554</xmin>
+			<ymin>118</ymin>
+			<xmax>1012</xmax>
+			<ymax>714</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>tennis</name>
+		<name>football</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>908</xmin>
-			<ymin>121</ymin>
-			<xmax>1112</xmax>
-			<ymax>535</ymax>
+			<xmin>552</xmin>
+			<ymin>116</ymin>
+			<xmax>1010</xmax>
+			<ymax>712</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>pool</name>
+		<name>baseball</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>545</xmin>
-			<ymin>182</ymin>
-			<xmax>867</xmax>
-			<ymax>613</ymax>
+			<xmin>72</xmin>
+			<ymin>454</ymin>
+			<xmax>526</xmax>
+			<ymax>714</ymax>
 		</bndbox>
 	</object>
 </annotation>
